@@ -1,0 +1,38 @@
+.register{
+    padding:10px;
+    margin:10px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;    
+}
+.form-signin{
+    border:1px solid #564e4e;
+    border-radius:10px;
+
+    padding:20px;
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 350px;
+    width: 500px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    display: flex;
+   object-fit: cover;
+}
+
+

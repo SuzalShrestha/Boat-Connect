@@ -1,0 +1,41 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.form-signup{
+    border:1px solid #564e4e;
+    border-radius:10px;
+    padding:20px;
+    margin:10px;
+    width: 50%;
+    height:50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: space-between;
+    gap:10px;
+}
+.register{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:flex-start;
+    gap:10px;
+}
+.form-signup-heading{
+    text-align: center;
+}
